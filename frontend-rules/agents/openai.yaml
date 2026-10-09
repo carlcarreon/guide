@@ -1,0 +1,4 @@
+interface:
+  display_name: "FRONTEND-RULES"
+  short_description: "React formatting, reuse, forms, and shadcn/ui rules"
+  default_prompt: "Use $frontend-rules to implement this React feature with shadcn/ui and the project conventions."

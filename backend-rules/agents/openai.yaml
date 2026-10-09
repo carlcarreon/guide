@@ -1,0 +1,4 @@
+interface:
+  display_name: "BACKEND-RULES"
+  short_description: "Laravel architecture, SOLID, and clean code rules"
+  default_prompt: "Use $backend-rules to implement this backend feature using the project conventions."
